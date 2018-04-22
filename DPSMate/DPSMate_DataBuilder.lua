@@ -668,44 +668,44 @@ DPSMate.DB.PLAYER_LOGIN = function()
 		RegisterCVar("CombatLogPeriodicSpells", 1) 
 	end
 	if GetCVar("CombatLogRangeParty") then 
-		SetCVar("CombatLogRangeParty", 200) 
+		SetCVar("CombatLogRangeParty", 300) 
 	else 
-		RegisterCVar("CombatLogRangeParty", 200) 
+		RegisterCVar("CombatLogRangeParty", 300) 
 	end
 	if GetCVar("CombatLogRangePartyPet") then 
-		SetCVar("CombatLogRangePartyPet", 200) 
+		SetCVar("CombatLogRangePartyPet", 300) 
 	else 
-		RegisterCVar("CombatLogRangePartyPet", 200) 
+		RegisterCVar("CombatLogRangePartyPet", 300) 
 	end
 	if GetCVar("CombatLogRangeFriendlyPlayers") then 
-		SetCVar("CombatLogRangeFriendlyPlayers", 200) 
+		SetCVar("CombatLogRangeFriendlyPlayers", 300) 
 	else 
-		RegisterCVar("CombatLogRangeFriendlyPlayers", 200) 
+		RegisterCVar("CombatLogRangeFriendlyPlayers", 300) 
 	end
 	if GetCVar("CombatLogRangeFriendlyPlayersPets") then 
-		SetCVar("CombatLogRangeFriendlyPlayersPets", 200) 
+		SetCVar("CombatLogRangeFriendlyPlayersPets", 300) 
 	else 
-		RegisterCVar("CombatLogRangeFriendlyPlayersPets", 200) 
+		RegisterCVar("CombatLogRangeFriendlyPlayersPets", 300) 
 	end
 	if GetCVar("CombatLogRangeHostilePlayers") then 
-		SetCVar("CombatLogRangeHostilePlayers", 200) 
+		SetCVar("CombatLogRangeHostilePlayers", 300) 
 	else 
-		RegisterCVar("CombatLogRangeHostilePlayers", 200) 
+		RegisterCVar("CombatLogRangeHostilePlayers", 300) 
 	end
 	if GetCVar("CombatLogRangeHostilePlayersPets") then 
-		SetCVar("CombatLogRangeHostilePlayersPets", 200) 
+		SetCVar("CombatLogRangeHostilePlayersPets", 300) 
 	else 
-		RegisterCVar("CombatLogRangeHostilePlayersPets", 200) 
+		RegisterCVar("CombatLogRangeHostilePlayersPets", 300) 
 	end
 	if GetCVar("CombatLogRangeCreature") then 
-		SetCVar("CombatLogRangeCreature", 200) 
+		SetCVar("CombatLogRangeCreature", 300) 
 	else 
-		RegisterCVar("CombatLogRangeCreature", 200) 
+		RegisterCVar("CombatLogRangeCreature", 300) 
 	end
 	if GetCVar("CombatDeathLogRange") then 
-		SetCVar("CombatDeathLogRange", 200) 
+		SetCVar("CombatDeathLogRange", 300) 
 	else 
-		RegisterCVar("CombatDeathLogRange", 200) 
+		RegisterCVar("CombatDeathLogRange", 300) 
 	end
 end
 
