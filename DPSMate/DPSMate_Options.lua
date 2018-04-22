@@ -21,6 +21,7 @@ DPSMate.Options.fonts = {
 	["Vegur"] = "Interface\\AddOns\\DPSMate\\fonts\\Vegur.TTF",
 	["Mandarin1"] = "Interface\\AddOns\\DPSMate\\fonts\\Mandarin1.TTF",
 	["Mandarin2"] = "Interface\\AddOns\\DPSMate\\fonts\\Mandarin2.TTF",
+	["Myriad-Pro"] = "Interface\\AddOns\\DPSMate\\fonts\\Myriad-Pro.TTF"
 }
 DPSMate.Options.fontflags = {
 	["None"] = "NONE",
